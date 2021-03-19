@@ -8,7 +8,7 @@
 * (TBA...) 
 
 ### Connect me via: 
-[My Paypal](https://www.paypal.com/vn/home)
+[My Paypal](https://www.paypal.com/vn/home)  
 [Mail](truongminhtuan0802@gmail.com)
 
 © 2021 Tecc Support
