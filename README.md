@@ -1,6 +1,6 @@
-# **Hello sir**
+# Hello sir
 ## I can help you install Virtual Machine
-### _I will show you the way of Arch Linux so that u can flex with the normies. You will find_
+### ~~I will show you the way of Arch Linux so that u can flex with the normies.~~ _You will find_
 
 * .gitignore itself to demonstrate how Git tool will upload a file or not
 * README.me itself file to introduce contents of this repo
