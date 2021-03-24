@@ -29,7 +29,7 @@ public class MathUtils {
             return 1; //không cần tính, return ngay
         }
         //qua đoạn này thì n chắn chắn sẽ bằng 2-20
-        long result = 0;
+        long result = 1;
         for (int i = 2; i <= n; i++) {
             result *= i;
         }
